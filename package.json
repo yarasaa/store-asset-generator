@@ -1,6 +1,6 @@
 {
   "name": "store-asset-generator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "AI-powered App Store & Play Store asset generator — MCP server for Claude Code",
   "keywords": [
     "mcp",
@@ -48,7 +48,7 @@
   "types": "./dist/index.d.ts",
   "files": [
     "dist",
-    "templates",
+    "docs/images",
     "README.md",
     "LICENSE"
   ],
